@@ -7,4 +7,4 @@ perubahan pada file `data.txt`.
 
 ## Anggota Kelompok
 - Nama Anggota 1
-- Nama Anggota 2
+- Nandini Ananda Syifa
